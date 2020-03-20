@@ -109,7 +109,7 @@
 端末Ａでの操作の様子 （ iPad 第六世代 ）
 ![端末Ａの画面](https://user-images.githubusercontent.com/13220051/77184863-c3b21500-6b13-11ea-9f64-aaafbe9ee9bd.PNG)
 
-端末でＢの操作の様子 （ iPhone 7 plus ）
+端末Ｂでの操作の様子 （ iPhone 7 plus ）
 ![端末Ｂの画面](https://user-images.githubusercontent.com/13220051/77184867-c57bd880-6b13-11ea-86a4-4f4ab5f6f089.PNG)
 
 
